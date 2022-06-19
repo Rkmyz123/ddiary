@@ -1,0 +1,2 @@
+# ddiary
+hello
